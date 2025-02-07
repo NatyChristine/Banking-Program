@@ -1,6 +1,6 @@
 # Banking Program
 
-*This program was made for learning only and DO NOT store any information"
+*This program was made for learning only and DOES NOT store any information"
 
 Working
 NO GUI
